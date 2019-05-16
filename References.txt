@@ -1,0 +1,2 @@
+https://timodenk.com/blog/program-arduino-in-assembly-or-c-cpp/
+https://e-radionica.com/en/blog/blinking-a-led-using-assembler-in-arduino/
